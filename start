@@ -1,0 +1,2 @@
+make CAKE_DIR=/home/user/cake-x64-64 &&
+./contract
